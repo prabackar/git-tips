@@ -1,3 +1,6 @@
+#Description 
+Git is a DVCS (Distributed version control system)
+
 #Octocat Story - Git Commands
 
 ##Basics
@@ -7,7 +10,7 @@
   git add octocat.txt
   git commit -m"Added octocat"
   git add "*.txt"
-  git commit -m"Add octo txt file"
+  git commit -m"Add octo txt file" 
   git log
   git remote add origin https://github.com/try-git/try_git.git
   git push -u origin master
